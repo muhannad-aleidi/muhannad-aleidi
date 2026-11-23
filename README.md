@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Muhannad 👋
 
-<!--
-**muhannad-aleidi/muhannad-aleidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer and accredited Engineer (Saudi Council of Engineers) based in Riyadh, combining backend development with hands-on data governance experience.
 
-Here are some ideas to get you started:
+- 💼 Data Management Office co-op at Cluster2 Airports Company (NDMO, PDPL, data catalog, data quality, Power BI)
+- 🛠️ Building backend APIs with Java and Spring Boot
+- 🎯 Open to software engineering, data, and BI roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+Java · Spring Boot · SQL · PostgreSQL · Power BI · Docker · Git
+
+## Featured project
+**[DataGuard](https://github.com/muhannad-aleidi/dataguard)**: Data catalog and data quality REST API aligned with NDMO classification levels.
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/muhannad-aleidi) · Mohannd.Aleidi@gmail.com
